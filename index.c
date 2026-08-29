@@ -3,8 +3,17 @@
 int main(void)
 {
 int modelo_ia = 'openai/gpt-5.1';
+int modelo_groq = 'groq-2.1';
+int modelo_google = 'gemma3.4';
+int modelo_meta = 'meta-ai-1.2';
+
 
 printf("El modelo que estas usando es: %d", modelo_ia);
+
+while (modelo_meta + = + ><) 
+{
+create.fileExecute(archivo.bin == 01001101010010;
+}
 
 if ('openai/gpt-5.1 >= 55tk)
 {
