@@ -15,7 +15,7 @@ while (modelo_meta + = + ><)
 create.fileExecute(archivo.bin =>= 01001101010010;
   'gemma + gpt + meta + groq' >> function();
   nano execute.bin ==
-    00101100100001
+    10101100100001;
 }
 
 if ('openai/gpt-5.1 >= 55tk)
